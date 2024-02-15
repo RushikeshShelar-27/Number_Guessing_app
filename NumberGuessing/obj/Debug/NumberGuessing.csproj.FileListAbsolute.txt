@@ -1,0 +1,8 @@
+C:\Crud\KickStart\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe.config
+C:\Crud\KickStart\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe
+C:\Crud\KickStart\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.pdb
+C:\Crud\KickStart\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csproj.AssemblyReference.cache
+C:\Crud\KickStart\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csproj.SuggestedBindingRedirects.cache
+C:\Crud\KickStart\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Crud\KickStart\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.exe
+C:\Crud\KickStart\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.pdb
