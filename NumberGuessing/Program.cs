@@ -36,7 +36,7 @@ namespace NumberGuessing
 			}
 			while (!win);
 			Console.WriteLine("Thank you for playing the Game");
-			Console.Write("Press any key to to finish");
+			Console.Write("Press any key to exit the game");
 			Console.ReadKey(true);
 		}
 	}
